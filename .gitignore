@@ -1,2 +1,5 @@
 .env
 api.txt
+bronze/ 
+#for folder ignore
+#.gitkeep means keep the folder in git even if it's empty
