@@ -24,6 +24,6 @@ class solution(object):
         double = s+s
         trim = double[1:-1]
         return s in trim
-print(solution().subString(abab))
+print(solution().subString("abab"))
 
     
