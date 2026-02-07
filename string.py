@@ -18,3 +18,12 @@ else:    print(c,"is not a leap year")
 
 a = "SANJI"
 print(a[ : : -1])
+
+class solution(object):
+    def subString(self, s)
+        double = s+s
+        trim = double[1:-1]
+        return s in trim
+print(solution().subString(abab))
+
+    
